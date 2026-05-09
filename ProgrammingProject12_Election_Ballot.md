@@ -40,7 +40,7 @@ Define a class named `Voter` that:
   - A string of votes (e.g., `"CDGH"`)
 - Has **accessor functions** that return:
   - The voter's ID
-  - The voter's selection for a specific ballot question (by index for a specific question). For example, getSelection(1) given a string of votes "CDGH", the function would output "Voter voted NO for Prop 17."
+  - The voter's selection for a specific ballot question (by index for a specific question). For example, getSelection(1) given a string of votes "CDGH", the function would output "Voter voted YES for Prop 17."
 
 ### Input File Format
 - No header lines
